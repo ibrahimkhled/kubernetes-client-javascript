@@ -196,6 +196,6 @@ To run tests, execute the following:
 npm test
 ```
 
-## Contributing
+## Contributin
 
 Please see [CONTRIBUTING.md](CONTRIBUTING.md) for instructions on how to contribute.
